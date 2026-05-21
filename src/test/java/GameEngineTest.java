@@ -80,6 +80,7 @@ public class GameEngineTest {
         engine.setTarget(50);
         engine.makeGuess(-1);
         assertEquals(0, engine.getAttempts());
+    }
 
     @Test
     public void testHintVeryClose() {

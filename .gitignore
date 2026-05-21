@@ -1,6 +1,7 @@
 .gradle/
 build/
 gradlew
+gradlew.bat
 .DS_Store
 *.class
 .idea/
